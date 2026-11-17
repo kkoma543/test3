@@ -1,0 +1,15 @@
+[theme]
+baseRadius = "large"
+font = "sans serif"
+
+[theme.light]
+primaryColor = "#4F46E5"
+
+[theme.dark]
+primaryColor = "#818CF8"
+
+[client]
+toolbarMode = "minimal"
+
+[browser]
+gatherUsageStats = false
